@@ -4,6 +4,9 @@ author: "范晓太，赵鹏"
 site: bookdown::bookdown_site
 date: "`r Sys.Date()`"
 description: "This is a collection of stories of high-school students taught by Mr. Fan Xiaotai. "
+github-repo: "dapengde/qunyingpu"
+cover-image: "images/cover.jpg"
+url: 'https\://bookdown.org/baydap/qyp/'
 documentclass: ctexbook
 classoption: openany
 colorlinks: no
